@@ -2,3 +2,4 @@ bbb
 new
 foo
 bar
+bbb
